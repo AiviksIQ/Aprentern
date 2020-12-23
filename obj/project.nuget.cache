@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ltQNXhRrjDJDJvVFWUQldzFK3Z/eW4PVFxweOrwESKxlOtedDYHeRyXoaw07J5h4PTD6pGNcQEpkiOjhLyYzfQ==",
+  "success": true,
+  "projectFilePath": "/Users/aivispalacis/Desktop/Aprentern/Aprentern.csproj",
+  "expectedPackageFiles": [
+    "/Users/aivispalacis/.nuget/packages/buildwebcompiler/1.12.405/buildwebcompiler.1.12.405.nupkg.sha512",
+    "/Users/aivispalacis/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.1/microsoft.aspnetcore.spaservices.extensions.5.0.1.nupkg.sha512",
+    "/Users/aivispalacis/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/aivispalacis/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/aivispalacis/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/aivispalacis/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

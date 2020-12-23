@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{C58729C0-62B0-4DF1-AA2D-F73A99B0DCD7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Aprentern PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ClientApp/package.json">
+    <Files>
+      <File FileName="ClientApp/src/App.js" Line="15" Column="8" />
+      <File FileName="ClientApp/src/components/Home.js" />
+      <File FileName="ClientApp/src/index.js" />
+      <File FileName="ClientApp/src/components/Layout.js" />
+      <File FileName="ClientApp/src/components/NavMenu.js" />
+      <File FileName="Program.cs" />
+      <File FileName="ClientApp/src/components/FetchData.js" />
+      <File FileName="ClientApp/package.json" Line="21" Column="18" />
+      <File FileName="ClientApp/src/components/home.scss" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Aprentern" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
